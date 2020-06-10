@@ -1,4 +1,4 @@
-#1
+# 1
 # phonebook_dict = {
 #     'Alice': '703-493-1834',
 #     'Bob': '857-384-1234',
@@ -11,7 +11,7 @@
 # phonebook_dict.update(ph1)
 # print(phonebook_dict)
 
-#2
+# 2
 # ramit = {
 #   'name': 'Ramit',
 #   'email': 'ramit@gmail.com',
